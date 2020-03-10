@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCP-Server", "TCP-Server\TCP-Server.csproj", "{64957615-A9C8-43D8-8E79-5484711BD7F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book", "Book\Book.csproj", "{ED8C85F6-8011-4C19-A406-5647ECD9671A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookLibary", "Book\BookLibary.csproj", "{ED8C85F6-8011-4C19-A406-5647ECD9671A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
